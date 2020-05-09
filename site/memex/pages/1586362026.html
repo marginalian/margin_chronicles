@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta charset='utf-8'>
+  <meta name='author' content='Jack Plane'>
+  <meta name='description' content="personal wiki"/>
+  <meta name='keywords' content=""/>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+  <link rel='stylesheet' type='text/css' href=../../../styles/base.css>
+  <title>Margin Chronicles</title>
+</head>
+<body>
+  <div class='container'>
+
+    <header>
+      <div class='left'>
+        <div class='brand'>
+          <a href="../../../index.html">Margin Chronicles</a>
+        </div>
+      </div>
+
+      <div class='center'></div>
+
+      <div class='right'>
+        
+          view:&nbsp;
+          <a href="../index.html"> wiki </a>
+          &nbsp;|&nbsp;
+          <a href="./index.html"> list </a>
+        
+      </div>
+    </header>
+
+    <div class='leaf'>
+      <p><strong>Emender</strong> is a micro lisp interpreter that contains only what is necessary to complete its job: evaluate lisp embedded in markup. It supports strings, lists and library functions.</p>
+      <p><div class="attributed-quote">
+  <blockquote>For every successful general-purpose language out there, there are a thousand successful niche ones. We used to call them “little languages”, but inflation in the jargon economy led today to the name “domain-specific languages”. These are pidgins tailor-built to a specific task. Things like application scripting languages, template engines, markup formats, and configuration files.</blockquote><div class='nab-source'>&mdash;&nbsp;Crafting Interpreters - Robert Nystrom</div>
+</div>
+</p>
+      <p>In the context of MMX, Emender is responsible for transcluding parts of a <a target='' href='./1586017259.html'>Nab</a> file into a Leaf file. It supports simple alteration and styling of the transcluded Nab content.</p>
+      <p>It is also used for building Html elements like links. An example in leaf format:</p><pre>
+      <div>&#123;(caps (link "link" "https://github.com/marginalian"))&#125;</div></pre>
+      <p>In this case, Emender will use the library function <code>link-out</code> to build an <code>&lt;a&gt;</code> element. Then it will pass that element as an argument to the <code>caps</code> function, which will apply a CSS class.</p>
+      <p>The resulting html might look like:</p><pre>
+      <div>&lt;span class="caps"&gt;</div>
+      <div>  &lt;a href="https://github.com/marginalian" target="_blank"&gt;link&lt;/a&gt;</div>
+      <div>&lt;/span&gt;</div></pre><hr>
+      <p>Mary Rose Cook's <a target='_blank' href='https://github.com/maryrosecook/littlelisp'>Little Lisp</a> inspired me to create Emender.</p>
+    </div>
+  </div>
+</body>

@@ -1,0 +1,21 @@
+__Emender__ is a micro lisp interpreter that contains only what is necessary to complete its job: evaluate lisp embedded in markup. It supports strings, lists and library functions.
+
+{(nab-plus "1586361732")}
+
+In the context of MMX, Emender is responsible for transcluding parts of a {(link "Nab" "./1586017259.leaf")} file into a Leaf file. It supports simple alteration and styling of the transcluded Nab content.
+
+It is also used for building Html elements like links. An example in leaf format:
+
+|| {(caps (link "link" "https://github.com/marginalian"))}
+
+In this case, Emender will use the library function `link-out` to build an `<a>` element. Then it will pass that element as an argument to the `caps` function, which will apply a CSS class.
+
+The resulting html might look like:
+
+|| <span class="caps">
+||   <a href="https://github.com/marginalian" target="_blank">link</a>
+|| </span>
+
+___
+
+Mary Rose Cook's {(link "Little Lisp" "https://github.com/maryrosecook/littlelisp")} inspired me to create Emender.

@@ -1,0 +1,13 @@
+- .  add gazetteer chapter to wiki
+. .  this will house notes on specific places
+
+- .  add bin/stats
+. .  this will output a very simple stats
+. .  will output to a new file in a new dir/
+. .  yaml
+= .  to do
+- o  number of nabs
+. o  number of pages
+. o  number of drafts
+. o  number of words
+

@@ -1,0 +1,26 @@
+__MMX__ is a {(link "static-site generator" "https://github.com/marginalian/mmx")} written in Ruby 2.7 that relies on no external dependencies beyond a testing library. It is responsible for transforming a plaintext wiki into the Html files you are reading now.
+
+Motivation
+--
+
+I want a reading tool that supports:
+- Storing passages of books with relevant metadata: unique
+  id, source, short notes. This must be in plaintext format.
+- Writing extended marginalia that explores the associations between
+  multiple passages. This should use a lightweight markup language.
+- Collecting extended marginalia in projects and organizing as a wiki.
+- Parsing this plaintext commonplace book and rendering it online without any complicated build processes or databases (i.e. it should be simple enough to work as a GitHub Pages site).
+
+Plaintext File Formats
+--
+
+MMX has evolved to include a set of standards for various plaintext file formats:
+- {(link "NAB" "./pages/1586017259.leaf")} is a plaintext storage format modelled after an analogue slip-card note-taking system.
+- {(link "SNAP" "./pages/1589740817.leaf")} is a simple task and note markup format.
+
+
+Documentation
+--
+
+{(link "Emender" "./pages/1586362026.leaf")} is a lisp interpreter.
+

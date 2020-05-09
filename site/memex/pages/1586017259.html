@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta charset='utf-8'>
+  <meta name='author' content='Jack Plane'>
+  <meta name='description' content="personal wiki"/>
+  <meta name='keywords' content=""/>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+  <link rel='stylesheet' type='text/css' href=../../../styles/base.css>
+  <title>Margin Chronicles</title>
+</head>
+<body>
+  <div class='container'>
+
+    <header>
+      <div class='left'>
+        <div class='brand'>
+          <a href="../../../index.html">Margin Chronicles</a>
+        </div>
+      </div>
+
+      <div class='center'></div>
+
+      <div class='right'>
+        
+          view:&nbsp;
+          <a href="../index.html"> wiki </a>
+          &nbsp;|&nbsp;
+          <a href="./index.html"> list </a>
+        
+      </div>
+    </header>
+
+    <div class='leaf'>
+      <p><strong>NAB</strong> is a plain-text storage format for organizing reading notes. It is:</p><ul>
+      <li>linear: each line is treated as a discrete unit, like a "cell" in a spreadsheet</li>
+      <li>prefixed: each line begins with a control character that contextualizes the proceeding content</li>
+      <li>clusteral: each entry is delimited by an empty line</li></ul>
+      <p>The <a target='_blank' href='https://github.com/marginalian/margin&lowbar;chronicles/blob/master/wiki/commonplace/notecards.nab'>raw format</a> aims to be as human readable as possible. It is also very easy to parse and convert to an <a target='' href='../../commonplace/notecards.html'>html page</a>.</p>
+      <p>There are five available control prefixes. They may appear in any order within each cluster. But the preferred order is:</p><pre>
+      <div>#  nab id</div>
+      <div>-  title</div>
+      <div>"  quote text</div>
+      <div>*  quote source</div>
+      <div>@  quote author</div>
+      <div>&gt;  note</div>
+      <div>&amp;  list of related nab ids</div></pre>
+      <p>Repeated prefixes within the same cluster are joined with <code>\n</code> during rendering. This can be helpful when recording long passages.</p>
+      <p>Example cluster:</p><pre>
+      <div>#  the nab id is the nab's creation time in UNIX Epoch format.</div>
+      <div>-  titles should summarize the quote text in one line</div>
+      <div>"  the quote's text can be cut hard-wrapped by continuing on</div>
+      <div>   the next line.</div>
+      <div>"  quotes can contain multiple paragraphs by starting a new quote</div>
+      <div>   line in the same cluster</div>
+      <div>@  quote sources can be in any format</div>
+      <div>&gt;  if the title isn't enough, overflow remarks can be included in</div>
+      <div>   comments</div></pre>
+      <p>Still want more? Dive into the <a target='_blank' href='https://github.com/marginalian/mmx/blob/master/lib/mmx/nab.rb'>code</a>.</p><hr>
+      <p>Inspired by <a target='_blank' href='https://www.gnu.org/software/recutils/'>GNU recutils</a>.</p>
+    </div>
+  </div>
+</body>

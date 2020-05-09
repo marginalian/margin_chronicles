@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta charset='utf-8'>
+  <meta name='author' content='Jack Plane'>
+  <meta name='description' content="personal wiki"/>
+  <meta name='keywords' content=""/>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+  <link rel='stylesheet' type='text/css' href=../../../styles/base.css>
+  <title>Margin Chronicles</title>
+</head>
+<body>
+  <div class='container'>
+
+    <header>
+      <div class='left'>
+        <div class='brand'>
+          <a href="../../../index.html">Margin Chronicles</a>
+        </div>
+      </div>
+
+      <div class='center'></div>
+
+      <div class='right'>
+        
+          view:&nbsp;
+          <a href="../index.html"> wiki </a>
+          &nbsp;|&nbsp;
+          <a href="./index.html"> list </a>
+        
+      </div>
+    </header>
+
+    <div class='leaf'>
+      <p><strong>SNAP</strong> is a note-taking format that aims to provide meaningful context without getting in the way of quickly jotting down a thought. It is also machine parseable so that it can be translated into Html or highlighted by text editors.</p>
+      <p>Each line of text contains two preceding characters that denote hierarchy and status respectively.</p>
+      <p>There are three hierarchies:</p><pre>
+      <div>- group header</div>
+      <div>= secondary header</div>
+      <div>. note</div></pre>
+      <p>There are several note statuses:</p><pre>
+      <div>. note</div>
+      <div>o todo</div>
+      <div>x complete</div></pre>
+      <p>Headers have these statuses:</p><pre>
+      <div>. norm</div>
+      <div>! important</div>
+      <div>x devalued</div>
+      <div>  completed, unimportant, addressed, etc.</div></pre>
+      <p>Groups are delimited by a blank line.</p>
+      <p>Example group:</p><pre>
+      <div>- .  group header</div>
+      <div>. .  summary note of group</div>
+      <div>= .  sub header</div>
+      <div>. .  supporting explanation</div>
+      <div>. .  more support</div>
+      <div>= o  top level todo</div>
+      <div>. o  incomplete sub todo</div>
+      <div>. x  complete sub todo</div>
+      <div>= .  another sub header</div>
+      <div>. .  paragraph about an important point</div>
+      <div>     continued on a second line</div>
+      <div>     but try to limit how often this happens</div></pre>
+    </div>
+  </div>
+</body>

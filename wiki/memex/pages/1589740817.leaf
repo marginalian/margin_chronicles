@@ -1,0 +1,35 @@
+__SNAP__ is a note-taking format that aims to provide meaningful context without getting in the way of quickly jotting down a thought. It is also machine parseable so that it can be translated into Html or highlighted by text editors.
+
+Each line of text contains two preceding characters that denote hierarchy and status respectively.
+
+There are three hierarchies:
+|| - group header
+|| = secondary header
+|| . note
+
+There are several note statuses:
+|| . note
+|| o todo
+|| x complete
+
+Headers have these statuses:
+|| . norm
+|| ! important
+|| x devalued
+||   completed, unimportant, addressed, etc.
+
+Groups are delimited by a blank line.
+
+Example group:
+|| - .  group header
+|| . .  summary note of group
+|| = .  sub header
+|| . .  supporting explanation
+|| . .  more support
+|| = o  top level todo
+|| . o  incomplete sub todo
+|| . x  complete sub todo
+|| = .  another sub header
+|| . .  paragraph about an important point
+||      continued on a second line
+||      but try to limit how often this happens

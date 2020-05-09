@@ -1,0 +1,42 @@
+__NAB__ is a plain-text storage format for organizing reading notes. It is:
+- linear: each line is treated as a discrete unit, like a "cell" in a spreadsheet
+- prefixed: each line begins with a control character that contextualizes the proceeding content
+- clusteral: each entry is delimited by an empty line
+
+/ Add inspiration: slip boxes, memex, paul otlet
+/ Add note on self-referencing inside the file
+/ Add note about it being transcluded into topo files by emender
+
+The {(link "raw format" "https://github.com/marginalian/margin_chronicles/blob/master/wiki/commonplace/notecards.nab")} aims to be as human readable as possible. It is also very easy to parse and convert to an {(link "html page" "../../commonplace/notecards.leaf")}.
+
+There are five available control prefixes. They may appear in any order within each cluster.
+But the preferred order is:
+
+|| #  nab id
+|| -  title
+|| "  quote text
+|| *  quote source
+|| @  quote author
+|| >  note
+|| &  list of related nab ids
+
+Repeated prefixes within the same cluster are joined with `\n` during rendering.
+This can be helpful when recording long passages.
+
+Example cluster:
+
+|| #  the nab id is the nab's creation time in UNIX Epoch format.
+|| -  titles should summarize the quote text in one line
+|| "  the quote's text can be cut hard-wrapped by continuing on
+||    the next line.
+|| "  quotes can contain multiple paragraphs by starting a new quote
+||    line in the same cluster
+|| @  quote sources can be in any format
+|| >  if the title isn't enough, overflow remarks can be included in
+||    comments
+
+Still want more? Dive into the {(link "code" "https://github.com/marginalian/mmx/blob/master/lib/mmx/nab.rb")}.
+___
+
+Inspired by {(link "GNU recutils" "https://www.gnu.org/software/recutils/")}.
+

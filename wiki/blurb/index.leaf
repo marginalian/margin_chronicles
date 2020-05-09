@@ -1,0 +1,11 @@
+Welcome
+-
+
+This is a digital commonplace book full of personal reading notes. If your interests overlap mine, then you might find something interesting here. But, this project does not always aim to provide clean, public-facing content, so some of the chapters will be incomplete and many of the pages are rough around the edges.
+
+In the {(link "sailing" "../sailing/index.leaf")} chapter, you'll find pages on topics related to boats, cruising and travel in general. Example: {(link "how rethinking the idea of comfort can benefit the long-term cruiser" "../sailing/pages/1579277052.leaf")}. 
+
+The {(link "scifi" "../scifi/index.leaf")} chapter collects notes on writing and examples of stellar writing found in (mostly) short-form science fiction. Example: {(link "how to handle your throwaway characters" "../scifi/pages/1577983858.leaf")}.
+
+There is a plaintext wiki at the heart of this site. It is full of domain-specific markup languages and embedded lisp. A custom static-site generator transforms the wiki into the site you're reading now. If you are interested to learn more about the mechanics of how this site works, the {(link "memex" "../memex/index.leaf")} chapter is a good place to start.
+

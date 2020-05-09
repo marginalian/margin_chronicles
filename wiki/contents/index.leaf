@@ -1,0 +1,18 @@
+Table of Contents
+-
+
+__{(link "Blurb" "../blurb/index.leaf")}__
+provides an overview of the site and links to a few pages.
+
+__{(link "Commonplace" "../commonplace/index.leaf")}__
+captures influences on the design of {(link "mmx" "https://github.com/marginalian/mmx")}.
+
+__{(link "Memex" "../memex/index.leaf")}__
+documents the design decisions and usage of {(link "mmx" "https://github.com/marginalian/mmx")}.
+
+__{(link "Sailing" "../sailing/index.leaf")}__
+collects reading notes on boats, cruising and adventure in general.
+
+__{(link "Scifi" "../scifi/index.leaf")}__
+houses notes on scifi and writing.
+
