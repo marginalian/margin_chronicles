@@ -1,7 +1,11 @@
 __MMX__ is a {(link "static-site generator" "https://github.com/marginalian/mmx")} written in Ruby 2.7 that relies on no external dependencies beyond a testing library. It is responsible for transforming a plaintext wiki into the Html files you are reading now.
 
+{(img "../../images/memex/catalog.jpg")}
+
 Motivation
 --
+
+I've always taken notes on the books I read, but I never found a good way to store them. Not that I haven't tried. I have a messy directory full of various file types to prove it: Evernote ENEX, standard XML, markdown, JSON, YAML and more in the deep archive of failed storage attempts. For all these file types, there exists an equal number of defunct solutions to manage the data. I've built a handfull of CLI tools, a full web app and a single page application. But none of the solutions could handle everything that I want.
 
 I want a reading tool that supports:
 - Storing passages of books with relevant metadata: unique
@@ -9,7 +13,8 @@ I want a reading tool that supports:
 - Writing extended marginalia that explores the associations between
   multiple passages. This should use a lightweight markup language.
 - Collecting extended marginalia in projects and organizing as a wiki.
-- Parsing this plaintext commonplace book and rendering it online without any complicated build processes or databases (i.e. it should be simple enough to work as a GitHub Pages site).
+- Simple enough markup that I can build the parsing code myself.
+- Parsing this plaintext commonplace book and rendering it online without any complicated build processes or databases (i.e. it should be able to work as a GitHub Pages site).
 
 Plaintext File Formats
 --

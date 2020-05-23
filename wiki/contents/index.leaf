@@ -7,7 +7,7 @@ provides an overview of the site and links to a few pages.
 __{(link "Commonplace" "../commonplace/index.leaf")}__
 captures influences on the design of {(link "mmx" "https://github.com/marginalian/mmx")}.
 
-__{(link "Memex" "../memex/index.leaf")}__
+__{(link "MMX" "../mmx/index.leaf")}__
 documents the design decisions and usage of {(link "mmx" "https://github.com/marginalian/mmx")}.
 
 __{(link "Sailing" "../sailing/index.leaf")}__
