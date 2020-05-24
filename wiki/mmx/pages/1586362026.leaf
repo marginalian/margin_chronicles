@@ -1,4 +1,7 @@
-__Emender__ is a micro lisp interpreter that contains only what is necessary to complete its job: evaluate lisp embedded in markup. It supports strings, lists and library functions.
+Emender
+-
+
+Emender is a micro lisp interpreter that contains only what is necessary to complete its job: evaluate lisp embedded in markup. It supports strings, lists and library functions.
 
 {(nab-plus "1586361732")}
 

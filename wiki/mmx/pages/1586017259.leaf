@@ -1,4 +1,7 @@
-__NAB__ is a plain-text storage format for organizing reading notes. It is:
+NAB Files
+-
+
+NAB is a plain-text storage format for organizing reading notes. It is:
 - linear: each line is treated as a discrete unit, like a "cell" in a spreadsheet
 - prefixed: each line begins with a control character that contextualizes the proceeding content
 - clusteral: each entry is delimited by an empty line

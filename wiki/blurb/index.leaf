@@ -1,11 +1,11 @@
 Welcome
--
+--
 
 This is a digital commonplace book full of personal reading notes. If your interests overlap mine, then you might find something interesting here. But, this project does not always aim to provide clean, public-facing content, so some of the chapters will be incomplete and many of the pages are rough around the edges.
 
-In the {(link "sailing" "../sailing/index.leaf")} chapter, you'll find pages on topics related to boats, cruising and travel in general. Example: {(link "how rethinking the idea of comfort can benefit the long-term cruiser" "../sailing/pages/1579277052.leaf")}. 
+The site is divided into chapters on different subjects. Each chapter takes the same form. Take, for example, the chapter on science fiction writing. It contains a set of {(link "reading notes" "../scifi/notecards.leaf")} alongside several {(link "pages" "../scifi/pages/index.html")} of extended marginalia. And the {(link "chapter index" "../scifi/index.leaf")} contextualizes the other pages into a sort of wiki.
 
-The {(link "scifi" "../scifi/index.leaf")} chapter collects notes on writing and examples of stellar writing found in (mostly) short-form science fiction. Example: {(link "how to handle your throwaway characters" "../scifi/pages/1577983858.leaf")}.
+The fledgling chapter about {(link "sailing" "../sailing/index.leaf")} follows the same pattern.
 
-There is a plaintext wiki at the heart of this site. It is full of domain-specific markup languages and embedded lisp. A custom static-site generator transforms the wiki into the site you're reading now. If you are interested to learn more about the mechanics of how this site works, the {(link "MMX" "../mmx/index.leaf")} chapter is a good place to start.
+At its core, this site is just a collection of domain-specific markup languages and embedded lisp. A custom static-site generator transforms those files into the site you're reading now. If you are interested to learn more about the mechanics of how this site works, the {(link "MMX" "../mmx/index.leaf")} chapter is a good place to start.
 

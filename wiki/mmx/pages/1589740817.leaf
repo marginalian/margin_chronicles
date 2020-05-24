@@ -1,4 +1,7 @@
-__SNAP__ is a note-taking format that aims to provide meaningful context without getting in the way of quickly jotting down a thought. It is also machine parseable so that it can be translated into Html or highlighted by text editors.
+SNAP Files
+-
+
+SNAP is a note-taking format that aims to provide meaningful context without getting in the way of quickly jotting down a thought. It is also machine parseable so that it can be translated into Html or highlighted by text editors.
 
 Each line of text contains two preceding characters that denote hierarchy and status respectively.
 
