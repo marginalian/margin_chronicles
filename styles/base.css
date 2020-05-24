@@ -348,3 +348,12 @@ hr {
   text-align: center;
   color: rgba(0, 0, 0, 0.7);
 }
+
+.webring {
+  text-align: center;
+}
+
+.webring img {
+  width: 50px;
+}
+
