@@ -2,12 +2,12 @@ Thoreau's Praise of Classic Books
 -
 It's easy to become swept up in the timestamp frenzy of the internet, where recent is the same as relevant. Taking a break from the feed is anxiety-provoking--if you're not keeping up, you're falling behind. This is not a modern problem. More than 170 years ago, Henry David Thoreau wrote that "Men sometimes speak as if the study of the classics would at length make way for more modern and practical studies." He rebuttal in _Walden, and On The Duty of Civil Disobedience_:
 
-{(hi "We might as well omit to study Nature because she is old." (nab "1579671200"))}
+<%= hi "We might as well omit to study Nature because she is old.", notecard(1579671200) %>
 
 He's saying that the cure for our precipitancy in seeking out the latest, fleeting knowledge online is to look back at timeless works of art.
 
-{(nab "1579671040")}
+<%= notecard 1579671040 %>
 
 He touches on the idea of universality and the idea that many of our modern troubles are enduring problems that have been faced by people for millennia but in a new context.
 
-{(nab "1579670522")}
+<%= notecard 1579670522 %>

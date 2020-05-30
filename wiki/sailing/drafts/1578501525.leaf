@@ -11,4 +11,4 @@ Add campari to get a taste closer to a Boulevardier.
 
 Add bitters for something like a Manhattan.
 
-{(nab-plus "1578503544")}
+<%= notecard_plus 1578503544 %>

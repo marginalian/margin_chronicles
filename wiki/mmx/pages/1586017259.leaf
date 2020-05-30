@@ -10,7 +10,7 @@ NAB is a plain-text storage format for organizing reading notes. It is:
 / Add note on self-referencing inside the file
 / Add note about it being transcluded into topo files by emender
 
-The {(link "raw format" "https://github.com/marginalian/margin_chronicles/blob/master/wiki/commonplace/notecards.nab")} aims to be as human readable as possible. It is also very easy to parse and convert to an {(link "html page" "../../commonplace/notecards.leaf")}.
+The <%= link "raw format", "https://github.com/marginalian/margin_chronicles/blob/master/wiki/commonplace/notecards.nab" %> aims to be as human readable as possible. It is also very easy to parse and convert to an <%= link "html page", "../../commonplace/notecards.leaf" %>.
 
 There are five available control prefixes. They may appear in any order within each cluster.
 But the preferred order is:
@@ -38,8 +38,8 @@ Example cluster:
 || >  if the title isn't enough, overflow remarks can be included in
 ||    comments
 
-Still want more? Dive into the {(link "code" "https://github.com/marginalian/mmx/blob/master/lib/mmx/nab.rb")}.
+Still want more? Dive into the <%= link "code", "https://github.com/marginalian/mmx/blob/master/lib/mmx/notecard.rb" %>.
 ___
 
-Inspired by {(link "GNU recutils" "https://www.gnu.org/software/recutils/")}.
+Inspired by <%= link "GNU recutils", "https://www.gnu.org/software/recutils/" %>.
 

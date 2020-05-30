@@ -7,7 +7,7 @@ class in description in general. The opening of the story in particular is
 an example of breaking up exposotion with action. I'm going to reproduce it in full
 below and then walk through it section by section:
 
-{(indent (nab "1578084187"))}
+<%= indent notecard(1578084187) %>
 
 This opening creates a vivid world without devoting six paragraphs to dry, stale
 descriptions. How? By injecting action into the exposition.

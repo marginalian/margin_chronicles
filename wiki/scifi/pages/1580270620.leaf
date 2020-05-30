@@ -7,22 +7,22 @@ One technique that is in vogue combines exposition with prolepsis. This carries 
 
 It is often couched in terms of an imagined retelling of current events. Dominica Phetteplace applies this in her short story "Her Appetite, His Heart." It springs naturally from the story:
 
-{(long (nab "1580271572"))}
+<%= long notecard(1580271572) %>
 
 The key phrase is "telling it to Isla the next time he saw her". We get a description of the world around the main character. It's clear what's happening, and it doesn't feel like Phetteplace is interjecting into the story herself. The main character is shouldering that burden, himself.
 
 Notice how smooth this transition is. The sentence before, he talks about Isla, so she is fresh in your mind. The italics play the crucial role of signalling when this prolepsis interlude is over.
 
-{(nab-pull "1581727831")}
+<%= notecard_pull 1581727831 %>
 
 This is not a one-off. Instead, Phetteplace integrates the prolepsis exposition throughout the short story. It forms a sub-structure for the composition.
 
-{(long (nab "1580272095"))}
+<%= long notecard(1580272095) %>
 
 Keeps things fresh by giving a sentence in italics, and then leaning more into plain narration.
 
 Phetteplace's skill shines through on the third repetition. The technique becomes even more organic when the transition gives us a peak into how this prolepsis affects the main character's mental state:
 
-{(long (nab "1580273150"))}
+<%= long notecard(1580273150) %>
 
 The repetition of the technique builds a pleasant context for the reader. But the technique has to evolve to keep things fresh. This is a common thread in well-crafted writing.

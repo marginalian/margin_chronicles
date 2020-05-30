@@ -7,39 +7,39 @@ Annie Hill cruised the world on a 36-footer with a junk rig. The Smeetons sailed
 
 Many long-term cruisers have written about boat size, but few have done so quite so often as the Pardeys. Their books are full of impassioned descriptions of small boats and their virtues. And, if there's anyone qualified to discuss the matter, it's the Pardeys. When they began to feel that their 24-foot cutter was a little too small, they upgraded to 29 feet and sailed that for another several decades.
 
-{(pull-quote "Cruising represents freedom--small boats ensure freedom")}
+<%= pull_quote "Cruising represents freedom--small boats ensure freedom" %>
 
 In their second travelogue, _Seraffyn's European Adventure_, the Pardeys describe the trends they've seen among fellow cruisers.
 
-{(nab "1581655061")}
+<%= notecard 1581655061 %>
 
 That forms the crux of their argument: you are more likely to cruise and to continue to cruise if you choose a smaller boat. But, in thier view, the choice between larger and smaller boats is not just a financial decision. The true consideration is freedom.
 
-{(nab "1581655353")}
+<%= notecard 1581655353 %>
 
 Time saved up front means more time to cruise. But the time-savings aren't confined to the refitting process.
 
-{(nab "1581655173")}
+<%= notecard 1581655173 %>
 
 This idea of giving up luxuries to gain independence is a core belief held by many long time cruisers. But money saved is not the only motivator for choosing a smaller boat. Larger boats come with another set of challenges:
 
-{(nab-combine "1581655363" "1581655378")}
+<%= notecard_combine 1581655363, 1581655378 %>
 
 These points make sense, though they only address boat life near land. What about safety? Especially in the open ocean. The Pardeys tackle this question head-on:
 
-{(nab "1581655388")}
+<%= notecard 1581655388 %>
 
 Here, they are speaking from a wealth of experience on small boats. Together, they sailed more than 200,000 nautical miles on boats under 30 feet.
 
 But what about all those luxuries that could make life on the water a little easier? The Pardeys caution that those comforts aren't always what you bargain for:
 
-{(nab-combine "1581655399" "1581655409")}
+<%= notecard_combine 1581655399, 1581655409 %>
 
 Here is the real power behind the Pardey point of view. It's not necessarily an either/or choice between comfort and thrift. You can have both if you redefine what comfort means to you.
 
-{(nab "1581655418")}
+<%= notecard 1581655418 %>
 
-This challenge to the concept of comfort is echoed and intensified two decades later by Annie Hill who argued that {(link "simplicity is another form of comfort" "../pages/1579277052.leaf")}.
+This challenge to the concept of comfort is echoed and intensified two decades later by Annie Hill who argued that <%= link "simplicity is another form of comfort", "../pages/1579277052.leaf" %>.
 
 _Seraffyn's European Adventure_ is full of great advice to the novice cruiser and it's well worth reading cover-to-cover.
 

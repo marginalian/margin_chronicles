@@ -1,14 +1,14 @@
 Welcome
 --
 
-This is a digital commonplace book full of personal reading notes. It is divided into chapters on different subjects. Take, for example, the chapter on science fiction writing. It contains a {(link "chapter index" "../scifi/index.leaf")} that contextualizes several {(link "pages" "../scifi/pages/index.html")} of extended marginalia. That marginalia, in turn, relies on a set of {(link "reading notes" "../scifi/notecards.leaf")}.
+This is a digital commonplace book full of personal reading notes. It is divided into chapters on different subjects. Take, for example, the chapter on science fiction writing. It contains a <%= link "chapter index", "../scifi/index.leaf" %> that contextualizes several <%= link "pages", "../scifi/pages/index.html" %> of extended marginalia. That marginalia, in turn, relies on a set of <%= link "reading notes", "../scifi/notecards.leaf" %>.
 
-The fledgling chapter about {(link "sailing" "../sailing/index.leaf")} follows the same pattern.
+The fledgling chapter about <%= link "sailing", "../sailing/index.leaf" %> follows the same pattern.
 
 If your interests overlap mine, then you might find something of value here. But, this project does not always aim to provide clean, public-facing content, so some of the chapters will be incomplete and many of the pages are rough around the edges.
 
-At its core, this project is just a collection of domain-specific markup languages and embedded lisp. A custom static-site generator transforms those files into the site you're reading now. If you are interested to learn more about the mechanics of how this site works, the {(link "MMX" "../mmx/index.leaf")} chapter is a good place to start.
+At its core, this project is just a collection of domain-specific markup languages and embedded lisp. A custom static-site generator transforms those files into the site you're reading now. If you are interested to learn more about the mechanics of how this site works, the <%= link "MMX", "../mmx/index.leaf" %> chapter is a good place to start.
 
 ___
 
-{(webring)}
+<%= webring %>

@@ -1,11 +1,11 @@
 What Came Before
 -
 
-One common way to provide the reader with more supporting information about the story is the flashback or analepsis. This is similar to {(link "using a flash-forward for exposition" "./1580270620.leaf")}.
+One common way to provide the reader with more supporting information about the story is the flashback or analepsis. This is similar to <%= link "using a flash-forward for exposition", "./1580270620.leaf" %>.
 
 The following passage from "A Lingering Scent of Jasmine" by Pat Murphy provides us with a masterful example of an external analepsis, which flashes back to a time outside of the current narrative, as opposed to internal analepsis which flashes back to a time that the narrative has already covered.
 
-{(long (nab "1582067653"))}
+<%= long notecard 1582067653 %>
 
 There's a lot to love about this passage.
 

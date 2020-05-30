@@ -2,44 +2,46 @@
 <html lang='en'>
 <head>
   <meta charset='utf-8'>
-  <meta name='author' content='Jack Plane'>
-  <meta name='description' content="personal wiki"/>
-  <meta name='keywords' content=""/>
-  <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-  <link rel='stylesheet' type='text/css' href=../../../styles/base.css>
-  <title>Margin Chronicles</title>
+<meta name='author' content='jack@marginalian.ink'>
+<meta name='description' content="personal wiki"/>
+<meta name='keywords' content=""/>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<link rel='stylesheet' type='text/css' href=/home/jack/src/margin_chronicles/mmx/lib/../styles/main.css>
+<title>Margin Chronicles</title>
+
 </head>
 <body>
-  <div class="container">
-
+  <main>
     <header>
-      <div class='top'>
-        <div class='left'>
-          <img width="100" height="100" src="../../../images/flying_book_left.png">
-        </div>
+  <div class='top'>
+    <div class='left'>
+      <img width="100" height="100" src="/home/jack/src/margin_chronicles/mmx/lib/../../images/flying_book_left.png">
+    </div>
 
-        <div class='center'>
-          <div class='brand'>
-            <a href="../../../index.html">Margin Chronicles</a>
-          </div>
-        </div>
-
-        <div class='right'>
-          <img width="100" height="100" src="../../../images/flying_book_right.png">
-        </div>
+    <div class='center'>
+      <div class='brand'>
+        <a href="/home/jack/src/margin_chronicles/mmx/lib/../../index.html">Margin Chronicles</a>
       </div>
- 
-      
-        <div class='bottom'>
-          view chapter as&nbsp;
-          <a href="../index.html"> wiki </a>
-          &nbsp;or&nbsp;
-          <a href="./index.html"> list </a>
-        </div>
-      
-    </header>
+    </div>
 
-    <div class='leaf'>
+    <div class='right'>
+      <img width="100" height="100" src="/home/jack/src/margin_chronicles/mmx/lib/../../images/flying_book_right.png">
+    </div>
+  </div>
+
+  
+    <nav>
+      view chapter as&nbsp;
+      <a href="../index.html"> wiki </a>
+      &nbsp;or&nbsp;
+      <a href="./index.html"> list </a>
+    </nav>
+  
+</header>
+
+
+    <article class="leaf">
+      
       <h1>NAB Files</h1>
       <p>NAB is a plain-text storage format for organizing reading notes. It is:</p><ul>
       <li>linear: each line is treated as a discrete unit, like a "cell" in a spreadsheet</li>
@@ -65,8 +67,8 @@
       <div>@  quote sources can be in any format</div>
       <div>&gt;  if the title isn't enough, overflow remarks can be included in</div>
       <div>   comments</div></pre>
-      <p>Still want more? Dive into the <a target='_blank' href='https://github.com/marginalian/mmx/blob/master/lib/mmx/nab.rb'>code</a>.</p><hr>
+      <p>Still want more? Dive into the <a target='_blank' href='https://github.com/marginalian/mmx/blob/master/lib/mmx/notecard.rb'>code</a>.</p><hr>
       <p>Inspired by <a target='_blank' href='https://www.gnu.org/software/recutils/'>GNU recutils</a>.</p>
-    </div>
-  </div>
+    </article>
+  </main>
 </body>

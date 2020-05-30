@@ -1,6 +1,6 @@
-__MMX__ is a {(link "static-site generator" "https://github.com/marginalian/mmx")} written in Ruby 2.7 that relies on no external dependencies beyond a testing library. It is responsible for transforming a plaintext wiki into the Html files you are reading now.
+__MMX__ is a <%= link "static-site generator", "https://github.com/marginalian/mmx" %> written in Ruby 2.7 that relies on no external dependencies beyond a testing library. It is responsible for transforming a plaintext wiki into the Html files you are reading now.
 
-{(img "../../images/memex/catalog.jpg")}
+<%= img "../../images/memex/catalog.jpg" %>
 
 Motivation
 --
@@ -20,12 +20,6 @@ Plaintext File Formats
 --
 
 MMX has evolved to include a set of standards for various plaintext file formats:
-- {(link "NAB" "./pages/1586017259.leaf")} is a plaintext storage format modelled after an analogue slip-card note-taking system.
-- {(link "SNAP" "./pages/1589740817.leaf")} is a simple task and note markup format.
-
-
-Documentation
---
-
-{(link "Emender" "./pages/1586362026.leaf")} is a lisp interpreter.
+- <%= link "NAB", "./pages/1586017259.leaf" %> is a plaintext storage format modelled after an analogue slip-card note-taking system.
+- <%= link "SNAP", "./pages/1589740817.leaf" %> is a simple task and note markup format.
 

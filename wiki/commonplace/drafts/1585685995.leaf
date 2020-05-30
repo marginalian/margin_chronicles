@@ -5,11 +5,11 @@ Context. He treats his slipbox as a communication partner, and refers to it by p
 
 When designing a note taking system, there is a immediate choice: build up a strict categorization system or combine all the notes together.
 
-{(nab "1585686348")}
+<%= notecard 1585686348 %>
 
 He argues for a different kind of structure:
 
-{(nab "1585686503")}
+<%= notecard 1585686503 %>
 
 He advocates for structuring the notes as a tree, where note number 1 is at the top. Note number 1/1 is a linear thematic continuation of the first note (it may even be a literal continuation where a long thought or quote is broken mid sentence between two cards.) A note with number 1/1a would be a branch off of 1/1. It may be an aside, a summary, a tangent. 
 
@@ -18,17 +18,17 @@ I prefer that this kind of work be done in a wiki format. In other words, I pref
 / link to mmx doc setion here
 However, MMX does borrow from his idea of linking notes together. 
 
-{(nab "1585686639")}
+<%= notecard 1585686639 %>
 
 He also created a register system to help with rediscovery of notes. Here he kept a list of keywords and referenced the applicable notes. With a digital system, this burden is easily shouldered by search. This is one benefit of keeping all the notes together in a plaintext database format. 
 
-{(nab "1585686768")}
+<%= notecard 1585686768 %>
 
 He also describes the importance of keeping all his notes connected through links and structure:
 
-{(nab "1585686883")}
+<%= notecard 1585686883 %>
 
 The system can transform:
 
-{(nab "1585686982")}
+<%= notecard 1585686982 %>
 

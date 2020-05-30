@@ -6,7 +6,7 @@ Le Guin Binary
 --
 The work of Ursula Le Guin is a treasure trove of brilliant ideas and inventive language.
 
-{(hi "Ocean: forest" (nab-plus "1580790214"))}
+<%= hi("Ocean: forest", notecard_plus(1580790214)) %>
 
 Le Guin starts off with a soft contrast between land and sea. Then she boils that contrast down to two words separated by a colon. It captures the reader's attention; primes them for the explicit comparison that follows. It's not something I had ever encountered before, but it seems perfectly natural.
 
@@ -14,6 +14,6 @@ Nivenette
 --
 Larry Niven may be best known for his novels, but his short-story chops earned him a place in _Dangerous Visions_. Short-story writers are always looking for shortcuts: ways to trim words and sentences without losing any meaning or impact.
 
-{(hi-exp "\W\?\W" (nab-plus "1580790574"))}
+<%= hi_exp(/\W\?\W/, notecard_plus(1580790574)) %>
 
 Niven cuts an entire dialogue section down to one characters! Almost like a parenthetical in a screenplay. It's difficult not to imagine that question mark translated into a facial expression. And it shows why Niven is a master of the short-story short cut.

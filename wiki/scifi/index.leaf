@@ -1,4 +1,12 @@
-{(img-size "../../images/scifi/planette.png" "300" "300")}
+---
+description: >-
+  Good writing is worth celebrating. This page records
+  elements of craft and story-telling techniques found
+  in science fiction. From metaphors to character arc,
+  no subject is too large or small.
+---
+
+<%= img_size "../../images/scifi/planette.png", "300", "300" %>
 
 Science Fiction Writing
 -
@@ -16,9 +24,9 @@ These notes fit into four categories:
 Micro
 --
 Notes on sentence and inter-sentence style. Finishing touches, like similes and word choice, happen at the micro level.
-- {(link "The Care and Handling of Throwaway Characters" "./pages/1577983858.leaf")}
-- {(link "The Le Guin Binary. The Nivenette." "./pages/1580790115.leaf")}
-- {(link "The Triple-Down Metaphor" "./pages/1587951537.leaf")}
+- <%= link "The Care and Handling of Throwaway Characters", "./pages/1577983858.leaf" %>
+- <%= link "The Le Guin Binary. The Nivenette.", "./pages/1580790115.leaf" %>
+- <%= link "The Triple-Down Metaphor", "./pages/1587951537.leaf" %>
 
 Meso
 --
@@ -26,7 +34,7 @@ Notes on how different sections of the story support each other. This section al
 
 Tension
 ---
-- {(link "Character v Character: Tension, Done Well" "./pages/1584284992.leaf")}
+- <%= link "Character v Character: Tension, Done Well", "./pages/1584284992.leaf" %>
 
 Setting the Scene
 ---
@@ -34,22 +42,22 @@ No story can survive on dialogue and action alone. The reader needs to have a wo
 in their mind's eye, before a writer can start to fill that world with witty
 starship captains and enigmatic aliens. Conventionally, short stories and early
 novel chapters begin with descriptions of the setting.
-- {(link "Pairing Description with Action" "./pages/1578083491.leaf")}
+- <%= link "Pairing Description with Action", "./pages/1578083491.leaf" %>
 
 Exposing Exposition
 ---
-{(nab-plus "1583024581")}
+<%= notecard_plus 1583024581 %>
 
 A speculative story's plot is often driven by a novel idea: future technologies,
 strange natural events, etc. The writer must make extra efforts to describe these
 ideas clearly without boring the reader.
 
-- {(link "Future Exposition, Now" "./pages/1580270620.leaf")}
-- {(link "What Came Before" "./pages/1582067416.leaf")}
+- <%= link "Future Exposition, Now", "./pages/1580270620.leaf" %>
+- <%= link "What Came Before", "./pages/1582067416.leaf" %>
 
 Sometimes it's impossible to avoid adding a giant block of exposition into
 the narrative. In these cases, look for ways to keep the passage interesting.
-{(nab-plus "1577904903")}
+<%= notecard_plus 1577904903 %>
 
 / Macro
 / --
