@@ -14,27 +14,21 @@
   <main>
     <header>
   <div class='top'>
-    <div class='left'>
-      <img width="100" height="100" src="../../images/flying_book_left.png">
-    </div>
-
-    <div class='center'>
-      <div class='brand'>
-        <a href="../../index.html">Margin Chronicles</a>
-      </div>
-    </div>
-
-    <div class='right'>
-      <img width="100" height="100" src="../../images/flying_book_right.png">
+    <div class='brand'>
+      <a href="../../index.html">Margin Chronicles</a>
     </div>
   </div>
 
   
     <nav>
-      view the mmx chapter as a&nbsp;
-      <a href="./index.html"> wiki </a>
-      &nbsp;or a&nbsp;
-      <a href="./pages/index.html"> list </a>
+      <div class="left">
+        &bull;&nbsp;mmx chapter&nbsp;&bull;&nbsp;
+      </div
+      <div class="right">
+        <a href="./index.html"> wiki </a>
+        &nbsp;|&nbsp;
+        <a href="./pages/index.html"> list </a>
+      </div
     </nav>
   
 </header>
@@ -42,23 +36,23 @@
 
     <article class="leaf">
       
-      <p><strong>MMX</strong> is a <a target='_blank' href='https://github.com/marginalian/mmx'>static-site generator</a> written in Ruby 2.7 that relies on no external dependencies beyond a testing library. It is responsible for transforming a plaintext wiki into the Html files you are reading now.</p>
-      <p><div class="img-container">
+      <p id=''><strong>MMX</strong> is a <a target='_blank' href='https://github.com/marginalian/mmx'>static-site generator</a> written in Ruby 2.7 that relies on no external dependencies beyond a testing library. It is responsible for transforming a plaintext wiki into the Html files you are reading now.</p>
+      <p id=''><div class="img-container">
   <img src="../../images/memex/catalog.jpg">
 </div>
 </p>
-      <h2>Motivation</h2>
-      <p>I've always taken notes on the books I read, but I never found a good way to store them. Not that I haven't tried. I have a messy directory full of various file types to prove it: Evernote ENEX, standard XML, markdown, JSON, YAML and more in the deep archive of failed storage attempts. For all these file types, there exists an equal number of defunct solutions to manage the data. I've built a handfull of CLI tools, a full web app and a single page application. But none of the solutions could handle everything that I want.</p>
-      <p>I want a reading tool that supports:</p><ul>
-      <li>Storing passages of books with relevant metadata: unique id, source, short notes. This must be in plaintext format.</li>
-      <li>Writing extended marginalia that explores the associations between multiple passages. This should use a lightweight markup language.</li>
-      <li>Collecting extended marginalia in projects and organizing as a wiki.</li>
-      <li>Simple enough markup that I can build the parsing code myself.</li>
-      <li>Parsing this plaintext commonplace book and rendering it online without any complicated build processes or databases (i.e. it should be able to work as a GitHub Pages site).</li></ul>
-      <h2>Plaintext File Formats</h2>
-      <p>MMX has evolved to include a set of standards for various plaintext file formats:</p><ul>
-      <li><a target='' href='./pages/1586017259.html'>NAB</a> is a plaintext storage format modelled after an analogue slip-card note-taking system.</li>
-      <li><a target='' href='./pages/1589740817.html'>SNAP</a> is a simple task and note markup format.</li></ul>
+      <h2 id='motivation'>Motivation</h2>
+      <p id=''>I've always taken notes on the books I read, but I never found a good way to store them. Not that I haven't tried. I have a messy directory full of various file types to prove it: Evernote ENEX, standard XML, markdown, JSON, YAML and more in the deep archive of failed storage attempts. For all these file types, there exists an equal number of defunct solutions to manage the data. I've built a handfull of CLI tools, a full web app and a single page application. But none of the solutions could handle everything that I want.</p>
+      <p id=''>I want a reading tool that supports:</p><ul>
+      <li id=''>Storing passages of books with relevant metadata: unique id, source, short notes. This must be in plaintext format.</li>
+      <li id=''>Writing extended marginalia that explores the associations between multiple passages. This should use a lightweight markup language.</li>
+      <li id=''>Collecting extended marginalia in projects and organizing as a wiki.</li>
+      <li id=''>Simple enough markup that I can build the parsing code myself.</li>
+      <li id=''>Parsing this plaintext commonplace book and rendering it online without any complicated build processes or databases (i.e. it should be able to work as a GitHub Pages site).</li></ul>
+      <h2 id='plaintext&#95;file&#95;formats'>Plaintext File Formats</h2>
+      <p id=''>MMX has evolved to include a set of standards for various plaintext file formats:</p><ul>
+      <li id=''><a target='' href='./pages/1586017259.html'>NAB</a> is a plaintext storage format modelled after an analogue slip-card note-taking system.</li>
+      <li id=''><a target='' href='./pages/1589740817.html'>SNAP</a> is a simple task and note markup format.</li></ul>
     </article>
   </main>
 </body>

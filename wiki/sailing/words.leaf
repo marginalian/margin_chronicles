@@ -1,5 +1,8 @@
-Words
+Glossary
 -
+~
+
+Here are some great sailing terms that I've run across while reading. Some of my favorites are <%= link "offing", "#offing" %> and <%= link "seagirt", "#seagirt" %>.
 
 Bight
 --
@@ -21,6 +24,13 @@ Boltrope
 [noun] a strong rope stitched to the edges of a sail to strengthen it.
 
 <%= hi "boltrope", notecard_plus(1586544500) %>
+
+Bowride
+--
+[verb] swim before the bow of a moving ship.
+
+<%= hi "bowride", notecard_plus(1590431767) %>
+
 
 Broach
 --
@@ -65,14 +75,6 @@ Freeboard
 --
 <%= hi "freeboard", notecard_plus(1586955779) %>
 
-Overfall
---
-[noun] a turbulent stretch of open water caused by the wind blowing
-against a current, by a strong current or tide over an underwater ridge,
-or by a meeting of currents.
-
-<%= hi "overfalls", notecard_plus(1581653959) %>
-
 Jubilee Clip
 --
 [noun]  a genericized brand name for worm-drive hose clamp, a type of band
@@ -81,6 +83,20 @@ fixed to one end. It is designed to hold a soft, pliable hose onto a rigid
 circular pipe, or sometimes a solid spigot, of smaller diameter.
 
 <%= hi "jubilee clip", notecard_plus(1581518209) %>
+
+Offing
+--
+The furthest part of the sea in sight.
+
+<%= hi "offing", notecard_plus(1590431780) %>
+
+Overfall
+--
+[noun] a turbulent stretch of open water caused by the wind blowing
+against a current, by a strong current or tide over an underwater ridge,
+or by a meeting of currents.
+
+<%= hi "overfalls", notecard_plus(1581653959) %>
 
 Plimsoll Line
 --
@@ -112,7 +128,7 @@ Samson Post
 
 Seagirt
 --
-[adj] surrounded by the sea[noun]
+[adj] surrounded by the sea
 
 <%= hi "seagirt", notecard_plus(1578549626) %>
 
@@ -145,6 +161,12 @@ Veer
 [verb] slacken or let out (a rope or cable) in a controlled way.
 
 <%= hi "veered", notecard_plus(1586817402) %>
+
+Weatherbound
+--
+[adj] prevented by bad weather from travelling.
+
+<%= hi "weatherbound", notecard_plus(1590431764) %>
 
 Yardarm
 --
