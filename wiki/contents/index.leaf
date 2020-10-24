@@ -10,9 +10,6 @@ captures influences on the design of <%= link "mmx", "https://github.com/margina
 __<%= link "MMX", "../mmx/index.leaf" %>__
 documents the design decisions and usage of <%= link "mmx", "https://github.com/marginalian/mmx" %>.
 
-__<%= link "Sailing", "../sailing/index.leaf" %>__
-collects reading notes on boats, cruising and adventure in general.
-
 __<%= link "Scifi", "../scifi/index.leaf" %>__
 houses notes on scifi and writing.
 
