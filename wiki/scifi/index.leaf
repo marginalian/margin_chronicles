@@ -52,8 +52,10 @@ A speculative story's plot is often driven by a novel idea: future technologies,
 strange natural events, etc. The writer must make extra efforts to describe these
 ideas clearly without boring the reader.
 
-- <%= link "Future Exposition, Now", "./pages/1580270620.leaf" %>
+Sometimes, the best way to add a block of description to a scene is to interrupt the main narrative with a flashback (or flashforward). Flashbacks are a familiar device. Hiding the exposition within one is often more palatable to readers than an unclear interruption of indeterminable length.
 - <%= link "What Came Before", "./pages/1582067416.leaf" %>
+- <%= link "A Trio of Analepses", "./pages/1604374609.leaf" %>
+- <%= link "Future Exposition, Now", "./pages/1580270620.leaf" %>
 
 Sometimes it's impossible to avoid adding a giant block of exposition into
 the narrative. In these cases, look for ways to keep the passage interesting.
