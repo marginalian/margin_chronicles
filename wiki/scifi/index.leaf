@@ -32,6 +32,10 @@ Meso
 --
 Notes on how different sections of the story support each other. This section also examines the transitions between sections (analepses, prolepses, scene breaks, et al).
 
+Beginnings
+---
+- <%= link "You Only Get 3 Paragraphs", "./pages/1588686483.leaf" %>
+
 Tension
 ---
 - <%= link "Character v Character: Tension, Done Well", "./pages/1584284992.leaf" %>
