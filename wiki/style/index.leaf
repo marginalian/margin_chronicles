@@ -6,7 +6,7 @@ description: >-
   no subject is too large or small.
 ---
 
-<%= img_size "../../images/scifi/planette.png", "300", "300" %>
+<%= img "../../images/style/hubble_0.jpg", "ESA/Hubble" %>
 
 Science Fiction Writing
 -
