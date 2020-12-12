@@ -4,6 +4,6 @@ description: personal wiki
 keywords:
 
 nav_links:
-  home: "scifi/index.html"
-  pages: "scifi/pages/index.html"
+  home: "style/index.html"
+  pages: "style/pages/index.html"
 
