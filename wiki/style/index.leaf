@@ -39,8 +39,7 @@ A metaphor is an opportunity to draw the reader's attention to something. Use th
 - Use extended metaphors to hammer home a point: <%= link "The Triple-Down Metaphor", "./pages/1587951537.leaf" %>
 - Keep your similes consistent with the story's point of view: <%= link "Weavers Think About Weaving", "./pages/1607654585.leaf" %>
 
-<%= top %>
-~
+___
 
 Meso
 --
