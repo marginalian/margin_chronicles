@@ -23,23 +23,20 @@ Notes on sentence and inter-sentence style. Finishing touches, like similes and 
 
 Dialogue
 ---
-
 - Dialogue tag = pronoun + speech act verb (ex: she said). 
 - Prefer the verbs "said" and "asked." 
-- If you would like to add pizzazz to a dialogue tag, don't change those speech act verbs. Instead, consider changing the pronoun: <%= link "The Care and Handling of Throwaway Characters", "./pages/1577983858.leaf" %>
+- <%= link "The Care and Handling of Throwaway Characters", "./pages/1577983858.leaf" %> - If you would like to add pizzazz to a dialogue tag, don't change those speech act verbs. Instead, consider changing the pronoun.
 
 Punctuation
 ---
-- Be creative; be concise: <%= link "The Le Guin Binary. The Nivenette.", "./pages/1580790115.leaf" %>
+- <%= link "The Le Guin Binary. The Nivenette", "./pages/1580790115.leaf" %> - Be creative; be concise.
 
 Similes & Metaphors
 ---
 A metaphor is an opportunity to draw the reader's attention to something. Use them to pick out a detail that may be useful later. 
 
-- Use extended metaphors to hammer home a point: <%= link "The Triple-Down Metaphor", "./pages/1587951537.leaf" %>
-- Keep your similes consistent with the story's point of view: <%= link "Weavers Think About Weaving", "./pages/1607654585.leaf" %>
-
-___
+- <%= link "The Triple-Down Metaphor", "./pages/1587951537.leaf" %> - Use extended metaphors to hammer home a point.
+- <%= link "Weavers Think About Weaving", "./pages/1607654585.leaf" %> - Keep your similes consistent with the story's point of view.
 
 Meso
 --
@@ -47,16 +44,16 @@ Notes on how different sections of the story support each other. This section al
 
 Beginnings
 ---
-- Take your opening sentences seriously--do more than just set the scene: <%= link "You Only Get 3 Paragraphs", "./pages/1588686483.leaf" %>
+- <%= link "You Only Get 3 Paragraphs", "./pages/1588686483.leaf" %> - Take your opening sentences seriously--do more than just set the scene.
 
 Tension
 ---
-- Use character differences to build tension quickly: <%= link "Character v Character: Tension, Done Well", "./pages/1584284992.leaf" %>
+- <%= link "Character v Character: Tension, Done Well", "./pages/1584284992.leaf" %> - Use character differences to build tension quickly.
 
 Setting
 ---
 No story can survive on dialogue and action alone. The reader needs to have a world in their mind's eye, before a writer can start to fill that world with witty starship captains and enigmatic aliens. Conventionally, short stories and early novel chapters begin with descriptions of the setting.
-- Break up long passages of setting description by interweaving it with action: <%= link "Pairing Description with Action", "./pages/1578083491.leaf" %>
+- <%= link "Pairing Description with Action", "./pages/1578083491.leaf" %> - Break up long passages of setting description by interweaving it with action.
 
 Exposing Exposition
 ---
@@ -67,9 +64,9 @@ strange natural events, etc. The writer must make extra efforts to describe thes
 ideas clearly without boring the reader.
 
 Sometimes, the best way to add a block of description to a scene is to interrupt the main narrative with a flashback (or flashforward). Flashbacks are a familiar device. Hiding the exposition within one is often more palatable to readers than an unclear interruption of indeterminable length.
-- Use external analepses to build context around the main narrative: <%= link "What Came Before", "./pages/1582067416.leaf" %>
-- Be inventive with the structure of flash backs: <%= link "A Trio of Analepses", "./pages/1604374609.leaf" %>
-- Flash forwards must have clear beginnings and ends. A smooth transition may take several sentences: <%= link "Future Exposition, Now", "./pages/1580270620.leaf" %>
+- <%= link "What Came Before", "./pages/1582067416.leaf" %> - Use external analepses to build context around the main narrative.
+- <%= link "A Trio of Analepses", "./pages/1604374609.leaf" %> - Be inventive with the structure of flash backs.
+- <%= link "Future Exposition, Now", "./pages/1580270620.leaf" %> - Flash forwards must have clear beginnings and ends. A smooth transition may take several sentences.
 
 Sometimes it's impossible to avoid adding a giant block of exposition into
 the narrative. In these cases, look for ways to keep the passage interesting.
