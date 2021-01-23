@@ -10,12 +10,13 @@ description: >-
 
 Science Fiction Writing Styleguide
 -
-~
+_A collection of writing lessons learned while reading speculative fiction. They usually begin with the same question: why was that sentence/passage/plot so successful?_
 
 - <%= link "micro", "#micro" %> paragraph and sentence level craft.
 - <%= link "meso", "#meso" %> techniques for linking discrete sections of a story.
-- macro approaches to build a cohesive story.
-- meta knowledge about the writing process.
+- <%= link "macro", "#macro" %> approaches to build a cohesive story.
+/ - meta knowledge about the writing process.
+___
 
 Micro
 --
@@ -70,11 +71,15 @@ Sometimes it's impossible to avoid adding a giant block of exposition into
 the narrative. In these cases, look for ways to keep the passage interesting.
 <%= notecard_plus 1577904903 %>
 
-/ Macro
-/ --
+Macro
+--
 
-/ There are patterns that apply to each part of a story
-/ or to the story itself as a unit:
+There are patterns that apply to each part of a story or to the story itself as a unit.
+
+Plot Devices
+---
+- <%= link "Hinting at Reversals", "./pages/1610073927.leaf" %> - deepen the tragedy or satisfaction of a reversal by building a bright future ahead of the protagonist that she will never reach.
+
 / - The Final Say: Make it Count (cymbal clash, power position)
 
 / Meta
@@ -88,7 +93,7 @@ the narrative. In these cases, look for ways to keep the passage interesting.
 / DRAFT: Starting with Character
 / 1609902107 1609902102 1609902108
 
-<%= top %>
+~
 ___
 
 <%= webring %>
