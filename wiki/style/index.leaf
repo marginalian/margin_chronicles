@@ -23,8 +23,6 @@ Notes on sentence and inter-sentence style. Finishing touches, like similes and 
 
 Dialogue
 ---
-- Dialogue tag = pronoun + speech act verb (ex: she said). 
-- Prefer the verbs "said" and "asked." 
 - <%= link "The Care and Handling of Throwaway Characters", "./pages/1577983858.leaf" %> - If you would like to add pizzazz to a dialogue tag, don't change those speech act verbs. Instead, consider changing the pronoun.
 
 Punctuation
@@ -57,11 +55,11 @@ No story can survive on dialogue and action alone. The reader needs to have a wo
 
 Exposing Exposition
 ---
-<%= notecard_plus 1583024581 %>
-
 A speculative story's plot is often driven by a novel idea: future technologies,
 strange natural events, etc. The writer must make extra efforts to describe these
 ideas clearly without boring the reader.
+
+<%= notecard_plus 1583024581 %>
 
 Sometimes, the best way to add a block of description to a scene is to interrupt the main narrative with a flashback (or flashforward). Flashbacks are a familiar device. Hiding the exposition within one is often more palatable to readers than an unclear interruption of indeterminable length.
 - <%= link "What Came Before", "./pages/1582067416.leaf" %> - Use external analepses to build context around the main narrative.

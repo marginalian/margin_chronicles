@@ -1,8 +1,7 @@
 ---
 site_name: Margin Chronicles
 description: personal wiki
-keywords:
-
+font_type: serif
 nav_links:
   home: "style/index.html"
   pages: "style/pages/index.html"
