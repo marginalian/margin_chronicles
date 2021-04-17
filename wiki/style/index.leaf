@@ -1,14 +1,10 @@
 ---
-description: >-
-  Good writing is worth celebrating. This page records
-  elements of craft and story-telling techniques found
-  in science fiction. From metaphors to character arc,
-  no subject is too large or small.
+description: Good writing is worth celebrating. This page organizes a collection of writing lessons gleaned from speculative fiction stories. From metaphors to character arc, no subject is too large or small.
 ---
 
 Science Fiction Writing Styleguide
 -
-_A collection of writing lessons learned while reading speculative fiction. They usually begin with the same question: why was that sentence/passage/plot so successful?_
+_Good writing is worth celebrating. This page organizes a collection of writing lessons gleaned from speculative fiction stories. From metaphors to character arc, no subject is too large or small._
 
 - <%= link "micro", "#micro" %> paragraph and sentence level craft.
 - <%= link "meso", "#meso" %> techniques for linking discrete sections of a story.
@@ -22,18 +18,18 @@ Notes on sentence and inter-sentence style. Finishing touches, like similes and 
 
 Dialogue
 ---
-- <%= link "The Care and Handling of Throwaway Characters", "./pages/1577983858.leaf" %> - If you would like to add pizzazz to a dialogue tag, don't change those speech act verbs. Instead, consider changing the pronoun.
+- If you would like to add pizzazz to a dialogue tag, don’t change those speech act verbs. Instead, consider changing the noun/pronoun. <%= link ">>>", "./pages/1577983858.leaf" %>
 
 Punctuation
 ---
-- <%= link "The Le Guin Binary. The Nivenette", "./pages/1580790115.leaf" %> - Be creative; be concise.
+- Be creative and concise. <%= link ">>>", "./pages/1580790115.leaf" %>
 
 Similes & Metaphors
 ---
-A metaphor is an opportunity to draw the reader's attention to something. Use them to pick out a detail that may be useful later. 
+A metaphor is an opportunity to draw the reader’s attention to something. Use them to pick out a detail that may be useful later. 
 
-- <%= link "The Triple-Down Metaphor", "./pages/1587951537.leaf" %> - Use extended metaphors to hammer home a point.
-- <%= link "Weavers Think About Weaving", "./pages/1607654585.leaf" %> - Keep your similes consistent with the story's point of view.
+- Extended the metaphor to hammer home a point. <%= link ">>>", "./pages/1587951537.leaf" %>
+- Keep your similes consistent with the story’s point of view. <%= link ">>>", "./pages/1607654585.leaf" %>
 
 Meso
 --
@@ -41,49 +37,47 @@ Notes on how different sections of the story support each other. This section al
 
 Beginnings
 ---
-- <%= link "You Only Get 3 Paragraphs", "./pages/1588686483.leaf" %> - Take your opening sentences seriously--do more than just set the scene.
+- Take your opening paragraphs seriously--do more than just set the scene. <%= link ">>>", "./pages/1588686483.leaf" %>
 
 Tension
 ---
-- <%= link "Character v Character: Tension, Done Well", "./pages/1584284992.leaf" %> - Use character differences to build tension quickly.
+- Use character differences to build tension quickly. <%= link ">>>", "./pages/1584284992.leaf" %>
 
 Setting
 ---
-No story can survive on dialogue and action alone. The reader needs to have a world in their mind's eye, before a writer can start to fill that world with witty starship captains and enigmatic aliens. Conventionally, short stories and early novel chapters begin with descriptions of the setting.
-- <%= link "Pairing Description with Action", "./pages/1578083491.leaf" %> - Break up long passages of setting description by interweaving it with action.
+No story can survive on dialogue and action alone. The reader needs to have a world in their mind’s eye, before the writer can start to fill that world with witty starship captains and enigmatic aliens.
+- Break up long descriptions of setting by interweaving it with action. <%= link ">>>", "./pages/1578083491.leaf" %>
 
-Exposing Exposition
+Exposition
 ---
-A speculative story's plot is often driven by a novel idea: future technologies,
+A speculative story’s plot often springs from a novel idea: future technologies,
 strange natural events, etc. The writer must make extra efforts to describe these
 ideas clearly without boring the reader.
 
 <%= notecard_plus 1583024581 %>
 
-Sometimes, the best way to add a block of description to a scene is to interrupt the main narrative with a flashback (or flashforward). Flashbacks are a familiar device. Hiding the exposition within one is often more palatable to readers than an unclear interruption of indeterminable length.
-- <%= link "What Came Before", "./pages/1582067416.leaf" %> - Use external analepses to build context around the main narrative.
-- <%= link "A Trio of Analepses", "./pages/1604374609.leaf" %> - Be inventive with the structure of flash backs.
-- <%= link "Future Exposition, Now", "./pages/1580270620.leaf" %> - Flash forwards must have clear beginnings and ends. A smooth transition may take several sentences.
+Sometimes, the best way to add a block of description to a scene is to interrupt the main narrative with a flashback (or flashforward). Flashbacks are a familiar device, and hiding the exposition within one is often more palatable to readers than an unclear interruption of indeterminable length.
 
-Sometimes it's impossible to avoid adding a giant block of exposition into
-the narrative. In these cases, look for ways to keep the passage interesting.
-<%= notecard_plus 1577904903 %>
+- Use external analepses to build context around the main narrative. <%= link ">>>", "./pages/1582067416.leaf" %>
+- Be inventive with the structure of flash backs. <%= link ">>>", "./pages/1604374609.leaf" %>
+- Flash forwards must have clear beginnings and ends. A smooth transition may take several sentences. <%= link ">>>", "./pages/1580270620.leaf" %>
+
 
 Macro
 --
 
-There are patterns that apply to each part of a story or to the story itself as a unit.
+These are patterns that apply to each part of a story or to the story itself as a unit.
 
 Plot Devices
 ---
-- <%= link "Hinting at Reversals", "./pages/1610073927.leaf" %> - deepen the tragedy or satisfaction of a reversal by building a bright future ahead of the protagonist that she will never reach.
+- Deepen the tragedy or satisfaction of a reversal by hinting at a bright future ahead of the protagonist that she will never reach. <%= link ">>>", "./pages/1610073927.leaf" %>
 
 / - The Final Say: Make it Count (cymbal clash, power position)
 
 / Structures
 / ---
 
-/ TODO: this section must be introduced with a page on Delany's explanation of plot vs structure.
+/ TODO: this section must be introduced with a page on Delany’s explanation of plot vs structure.
 
 / Meta
 / --
@@ -91,7 +85,7 @@ Plot Devices
 / Ideation
 / ---
 
-/ Reading established, successful writers answer the hated question "where do you get your ideas?" is to hear about process. Each writer has a process that works best for themself; one that is unique, at least in someways. A beginning writer may want to take some of these processes and "try them on" to see what fits. Or maybe they should forge their own process. But it's also worth eschewing categorization. When you think "I'm the kind of writer starts with a plot before all else," you're limiting the tools at your disposal. Because that's what all these processes are: tools that serve different purposes. Each famous writer that says "outlining is the only real way to start out" is really saying "I have proven out the viability of the oulining method." By all means, follow your prefered process, but if you're stuck--if the ideas aren't coming--try a new one.
+/ Reading established, successful writers answer the hated question “where do you get your ideas?” is to hear about process. Each writer has a process that works best for themself; one that is unique, at least in someways. A beginning writer may want to take some of these processes and “try them on” to see what fits. Or maybe they should forge their own process. But it’s also worth eschewing categorization. When you think “I’m the kind of writer starts with a plot before all else,” you’re limiting the tools at your disposal. Because that’s what all these processes are: tools that serve different purposes. Each famous writer that says “outlining is the only real way to start out” is really saying “I have proven out the viability of the oulining method.” By all means, follow your prefered process, but if you’re stuck--if the ideas aren’t coming--try a new one.
 
 / DRAFT: Starting with Character
 / 1609902107 1609902102 1609902108
