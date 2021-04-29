@@ -1,37 +1,54 @@
 Received Actions
 -
+/ make this all more consistent: you vs we (keep in the second person)
 ___
 In the world of writing advice, the refrain most often offered to neophytes is “first you need to learn the rules, then you can break them.” New writers are told again and again that the best novelists, poets, and journalists are the ones who break the rules better than anyone else.
 
 <%= notecard_pull 1607877397 %>
 
-It’s a deceptively simple task (breaking the rules). _Sure, no problem_, you think, _I can break the rules._ Then you come up against a specific rule. _When should I use the passive voice?_ Nothing comes to mind. So you pick up a book about writing by one of your favorite authors, and the book is chock full of great advice and interesting anecdotes. It even contains a section on the passive voice so you read carefully:
+It’s a deceptively simple task (breaking the rules). 
+
+_Sure, no problem_, you think, _I can break the rules. How hard could it possibly be?_ Then you come up against a specific rule. _When should I use the passive voice?_ Nothing comes to mind. So you pick up a book about writing by one of your favorite authors, and the book is chock full of great advice and interesting anecdotes. It even contains a section on the passive voice that you read carefully:
 
 <%= notecard_plus "1607877398" %>
 
-You turn the page. There are no examples of passive done right. Now, you’re even more motivated to find out how to break the rule but even less sure how to do it. 
+You turn the page. There are no examples of passive voice done right. Now, you’re even more motivated to find out how to break the rule but even less sure how to do it. 
 
 “Where does the passive voice belong?” you shout at the night sky before much gnashing of teeth and rending of garments. Okay, okay, maybe it’s not that bad, but it _is_ frustrating, right?
 
-But wait, there’s hope. You can ferret out an example in the author’s own work--a kind of usage and abusage scavenger hunt. I mean, reread that quote above. Doesn’t it sound like Le Guin knows what she’s talking about? She does, of course, and it doesn’t take long to find a paragon of passive voice construction in her collection of short stories “Four Ways to Forgiveness.” Afterall, Le Guin is a good and careful writer.
+But wait, there’s hope. You can ferret out an example in the author’s own work--a kind of usage and abusage scavenger hunt. I mean, reread that quote above. Doesn’t it sound like Le Guin knows what she’s talking about? She does, of course, and it doesn’t take long to find a paragon of passive voice construction in her collection of short stories “Four Ways to Forgiveness.” After all, Le Guin is a good and careful writer.
 
 The Slave
 --
 
-In her novella “A Woman’s Liberation,” the protagonist is a woman from the planet Werel who is kept as a slave. In the following passage, Le Guin uses the passive voice to describe a grave night in the young woman’s life:
+In her novella “A Woman’s Liberation,” the protagonist is a woman named Rakam from the planet Werel who is kept as a slave. In the following passage, Le Guin uses the passive voice to describe a fateful night in the young woman’s life:
 
 <%= notecard 1607893948 %>
 
-Why does she use the passive here? I’m not in the habit of guessing at a writer’s intentions, but I can tell you why it works for me as a reader: the character lacks agency within the scene; she has no choice and no escape. She is not the doer but the doee.
+Why does she use the passive here? I’m not in the habit of guessing at a writer’s intentions, but I can tell you why it works for me as a reader: the character lacks agency within the scene; she has no choice and no escape. She is not the doer but the doee. So, it makes perfect sense that Le Guin uses the passive voice. Rakam is still the subject of the sentence, but she is experiencing rather than performing the action of the verb.
 
 The Captive
 --
 
-<%= notecard_plus 1607893942 %>
-<%= notecard_plus 1607893943 %>
-<%= notecard_plus 1607893945 %>
+A similar use of the passive voice appears in the novella “Forgiveness Day.” Our protagonist is Solly, an envoy to a very conservative region of Werel. During a public celebration, an unknown group of people takes her captive:
 
-/ Not in the habit of stating a writer's intentions. Here's why these instances of passive voice usage work for me as a reader...
+<%= notecard 1607893942 %>
 
-/ talk about the connecting theme between the stories below (also link to the story suite page). The theme being captivity, slavery. When you are a captive or a slave, you lack agency. Shouldn't the language of the story reflect that?
+Just as with Rakam from “A Woman’s Liberation,” these actions are being done to Solly. But there is another, more practical reason that the passive works best here. Look closely at the first two sentences. The first one is in the active voice. The second one is in the passive. Now imagine if Le Guin hadn’t used the passive here. We would have to read this same non-descriptive subject noun over and over: “they, they, they.” It would be as irritating to read as it would be to write.
+
+She uses the same pattern later on:
+
+<%= notecard 1607893943 %>
+
+Rakam cannot see who unlocks the door, and the previous sentence already used “they,” so the passive voice is a natural choice. 
+
+That last sentence is important; she dares to speak to her captors. During the next few paragraphs, she is able to exert more control over her circumstances and press for more information, including that her captives call themselves the Patriots.
+
+Now Solly has reclaimed some agency and given us a much more descriptive subject noun than “they,” so it makes sense that the next time that her captors come to her, we read about it in the active voice only:
+ 
+<%= notecard 1607893945 %>
+
+These two stories offer a single answer to the question “when is it correct to use the passive voice?” When the protagonist lacks any control over a situation, and the controlling party is unknown or unimportant, the mode of the verb can reflect that. In this case, the passive voice can subtly introduce some unease into your reader’s mind. “I was brought to him in his great bedroom” generates apprehension by demonstrating the POV character’s lack of agency without taking any of the focus away from her. 
+
+Of course, as with any technique, use this one sparingly so that it’s still impactful when you need it.
 
