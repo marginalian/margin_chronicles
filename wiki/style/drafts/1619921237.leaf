@@ -2,7 +2,8 @@ Links
 -
 
 __Submission & Publication__
-- https://www.shunn.net/format/story/
+- <%= link "Standard Manuscript Formatting (Shunn)", "https://www.shunn.net/format/story/" %>
+- <%= link "What to Include in Your Coverletter (Clarke)", "http://neil-clarke.com/short-story-cover-letters/" %>
 
 __Blasts From the Past:__
 - http://www.hour25online.com/Hour25_Audio_Index.html
