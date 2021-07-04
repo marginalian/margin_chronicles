@@ -1,0 +1,16 @@
+Bits & Bobs
+-
+
+Recent stories using tried and true patterns.
+
+Throwaway names
+--
+<%= link "James SA Corey throwaways", "../pages/1577983858.leaf" %>
+
+<%= notecard_plus 1625323318 %>
+
+Leaping Dialogue
+--
+<%= link "Le Guin leaps", "./1607963459.leaf" %>
+
+<%= notecard_plus 1625323316 %>
